@@ -1,9 +1,9 @@
 # messing_with_readme
 ---
 test repo for fucking around with readme file formatting
-#here's heading one
-##here's headind two
-###woahhh here's heading three!
+# here's heading one
+## here's headind two
+### woahhh here's heading three!
 
 *now Im like italic?*
 **Now i'm like BOLD!**
