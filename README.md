@@ -16,9 +16,12 @@ the `print` function lets you display textises.
 now we gonna try the `>` thing
 >to go boldy where *nobody* has gone before
 
-##Directory
+## Directory
+
 [Programs](https://programs.com)
+
 [Data Files](https://datafiles.com)
+
 [References](https://references.org)
 
 ###Fintech Repository
