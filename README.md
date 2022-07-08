@@ -6,8 +6,11 @@ test repo for fucking around with readme file formatting
 ### woahhh here's heading three!
 
 *now Im like italic?*
+
 **Now i'm like BOLD!**
+
 the `print` function lets you display textises. 
+
 ```python print("here is your text dibydoodaday")```
 
 now we gonna try the `>` thing
